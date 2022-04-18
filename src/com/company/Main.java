@@ -14,7 +14,6 @@ public class Main {
         System.out.println( plansForADay(generateRandomAge(150), 26));
         System.out.println( plansForADay(generateRandomAge(150), 26));
         System.out.println( plansForADay(generateRandomAge(150), 26));
-
     }
 
     public static String plansForADay (int age, double temperature) {
